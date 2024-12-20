@@ -21,8 +21,12 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 
 <!-- LeetCode Stats Section -->
 ## LeetCode Stats
+# My GitHub Profile
 
 [![Utkarsh's leetcode activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshshukla45)](https://github.com/utkarshshukla45/github-readme-activity-graph)
+
+## LeetCode Stats
+<!-- LEETCODE_STATS -->
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
