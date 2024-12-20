@@ -12,8 +12,8 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 <!-- Coding Profiles Section -->
 ## Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/utkarshshukla45/)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/utkarshshukla45/profile)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/utkarshshukla45/)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/utkarshshukla45/profile)
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
@@ -39,11 +39,11 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 <!-- Social Links Section -->
 ## Social Links
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/utkarsh-shukla-3613bb28a/)
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/utkarshshukla45/)
-- [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/UtkarshShu72261?t=eSCfzRbx3IMKI14Z6xbpBA&s=08)
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/28869753/utkarsh-shukla)
-- [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown)](https://www.codechef.com/users/shukla_07)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/utkarsh-shukla-3613bb28a/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/utkarshshukla45/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://x.com/UtkarshShu72261?t=eSCfzRbx3IMKI14Z6xbpBA&s=08)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/28869753/utkarsh-shukla)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef)](https://www.codechef.com/users/shukla_07)
 
 <!-- Footer Section -->
 <!-- Add any additional content or footer links here -->
