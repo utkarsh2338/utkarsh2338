@@ -28,12 +28,12 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
   </span>
 </div>
 
-## GeeksforGeeks Statistics
-<div align="center">
-  <a href="https://auth.geeksforgeeks.org/user/utkarsh__07/profile">
-    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=utkarsh__07" alt="Utkarsh's GeeksforGeeks Stats"/>
-  </a>
-</div>
+<!--## GeeksforGeeks Statistics-->
+<!--<div align="center"> -->
+<!--   <a href="https://auth.geeksforgeeks.org/user/utkarsh__07/profile"> -->
+<!--     <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=utkarsh__07" alt="Utkarsh's GeeksforGeeks Stats"/> -->
+<!--   </a> -->
+<!-- </div> -->
 
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
