@@ -19,6 +19,11 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
   <img src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
+<!-- LeetCode Stats Section -->
+## LeetCode Stats
+
+[![Utkarsh's leetcode activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarshshukla45)](https://github.com/utkarshshukla45/github-readme-activity-graph)
+
 <!-- GitHub Stats Section -->
 ## GitHub Stats
 
