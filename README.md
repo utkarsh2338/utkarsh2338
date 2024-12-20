@@ -15,14 +15,18 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/utkarshshukla45/)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/utkarshshukla45/profile)
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/u/utkarshshukla45?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats">
+</div>
+
 <!-- GitHub Stats Section -->
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh2338)](https://github.com/utkarsh2338)
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh2338)](https://github.com/utkarsh2338)
 
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh2338&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh2338&layout=compact&theme=radical)
 
-![My GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh2338&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh2338&theme=radical)
 
 <!-- Languages and Tools Section -->
 ## Languages & Tools
