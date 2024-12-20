@@ -10,13 +10,30 @@
 Computer Science sophomore at IIIT Trichy combining academic pursuits with leadership as Joint Secretary. Proficient in C++, Python, JavaScript, HTML/CSS, with a passion for problem-solving and building from scratch. Currently focusing on Data Science and Web Development while maintaining a strong interest in DSA. Leveraging leadership experience from the Joint Secretary role to complement technical skills. Aspiring Software Engineer targeting product-based companies.
 
 ## 📊 Coding Profiles
-<span>
-<a href="https://leetcode.com/u/utkarshshukla45/">
-<img height="316" src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="Utkarsh's Leetcode Stats"/>
-</a>
-</span>
+## LeetCode Statistics
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <span>
+    <a href="https://leetcode.com/u/utkarshshukla45/">
+      <img height="316" src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="Utkarsh's Leetcode Stats"/>
+    </a>
+  </span>
+  <!-- LeetCode Badges -->
+  <span>
+    <a href="https://leetcode.com/u/utkarshshukla45/">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarshshukla45&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+    </a><br/>
+    <a href="https://leetcode.com/u/utkarshshukla45/">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarshshukla45&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking"/>
+    </a>
+  </span>
+</div>
 
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## GeeksforGeeks Statistics
+<div align="center">
+  <a href="https://auth.geeksforgeeks.org/user/utkarsh__07/profile">
+    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=utkarsh__07" alt="Utkarsh's GeeksforGeeks Stats"/>
+  </a>
+</div>
 
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
