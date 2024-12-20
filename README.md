@@ -18,11 +18,11 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 <!-- GitHub Stats Section -->
 ## GitHub Stats
 
-[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh2338)](https://github.com/utkarsh2338)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh2338)](https://github.com/utkarsh2338)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh2338&layout=compact&theme=radical)
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh2338&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh2338&theme=radical)
+![My GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh2338&theme=radical)
 
 <!-- Languages and Tools Section -->
 ## Languages & Tools
