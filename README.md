@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Welcome+to+My+GitHub+Profile+👋;Computer+Science+Student+%40+IIIT+Trichy+%7C+Full-Stack+Developer;DSA+%7C+Web+Development+%7C+Open+Source&background=6D33FF11&color=6550F7" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile+👋;Computer+Science+Student+@IIIT+Trichy;Full-Stack+Developer;DSA+%7C+Web+Development+%7C+Open+Source" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 👨‍💻 About Me
 Computer Science sophomore at IIIT Trichy combining academic pursuits with leadership as Joint Secretary. Proficient in C++, Python, JavaScript, HTML/CSS, with a passion for problem-solving and building from scratch. Currently focusing on Data Science and Web Development while maintaining a strong interest in DSA. Leveraging leadership experience from the Joint Secretary role to complement technical skills. Aspiring Software Engineer targeting product-based companies.
