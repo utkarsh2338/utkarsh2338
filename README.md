@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Utkarsh%20Shukla&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile+👋;Computer+Science+Student+@IIIT+Trichy;Full-Stack+Developer;DSA+%7C+Web+Development+%7C+Open+Source" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Computer+Science+Student+at+IIIT+Trichy" alt="Utkarsh Shukla" width="650" height="55">
-</div>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+</div>
 
 ## 👨‍💻 About Me
 Computer Science sophomore at IIIT Trichy combining academic pursuits with leadership as Joint Secretary. Proficient in C++, Python, JavaScript, HTML/CSS, with a passion for problem-solving and building from scratch. Currently focusing on Data Science and Web Development while maintaining a strong interest in DSA. Leveraging leadership experience from the Joint Secretary role to complement technical skills. Aspiring Software Engineer targeting product-based companies.
@@ -31,11 +29,11 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 Social Links
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-shukla-3613bb28a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/utkarshshukla45/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UtkarshShu72261)
+[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28869753/utkarsh-shukla)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shukla_07)
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -51,6 +49,14 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 
 [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh2338&theme=react-dark)](https://github.com/utkarsh2338/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarsh2338&theme=gruvbox&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</p>
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futkarsh2338%2Fhit-counter)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/utkarsh2338/count.svg?"  />
+</div>
