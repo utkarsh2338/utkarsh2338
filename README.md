@@ -16,7 +16,7 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/utkarshshukla45/profile)
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <!-- GitHub Stats Section -->
