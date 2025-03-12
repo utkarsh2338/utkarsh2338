@@ -13,7 +13,7 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 ## LeetCode Statistics
 <div style="display: flex; justify-content: center; gap: 10px;">
   <span>
-    <a href="https://leetcode.com/u/utkarshshukla45/">
+    <a href="https://leetcode.com/u/utkarsh_1007/">
       <img height="316" src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="Utkarsh's Leetcode Stats"/>
     </a>
   </span>
