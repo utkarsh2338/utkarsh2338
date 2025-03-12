@@ -10,7 +10,15 @@
 Computer Science sophomore at IIIT Trichy combining academic pursuits with leadership as Joint Secretary. Proficient in C++, Python, JavaScript, HTML/CSS, with a passion for problem-solving and building from scratch. Currently focusing on Data Science and Web Development while maintaining a strong interest in DSA. Leveraging leadership experience from the Joint Secretary role to complement technical skills. Aspiring Software Engineer targeting product-based companies.
 
 ## 📊 Coding Profiles
-## LeetCode Statistics
+
+### Codeforces Statistics
+<div align="center">
+  <a href="https://codeforces.com/profile/__utkarsh__07">
+    <img src="https://github.com/utkarsh2338/utkarsh2338/assets/YOUR_ASSET_ID/codeforces-profile.png" alt="Codeforces Profile" width="650px" />
+  </a>
+</div>
+
+### LeetCode Statistics
 <div style="display: flex; justify-content: center; gap: 10px;">
   <span>
     <a href="https://leetcode.com/u/utkarsh_1007/">
@@ -28,12 +36,12 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
   </span>
 </div>
 
-<!--## GeeksforGeeks Statistics-->
-<!--<div align="center"> -->
-<!--   <a href="https://auth.geeksforgeeks.org/user/utkarsh__07/profile"> -->
-<!--     <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=utkarsh__07" alt="Utkarsh's GeeksforGeeks Stats"/> -->
-<!--   </a> -->
-<!-- </div> -->
+### GeeksforGeeks Statistics
+<div align="center">
+   <a href="https://auth.geeksforgeeks.org/user/utkarsh__07/profile">
+     <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=utkarsh__07" alt="Utkarsh's GeeksforGeeks Stats"/>
+   </a>
+</div>
 
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,10 +55,12 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 
 ## 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-shukla-3613bb28a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/utkarshshukla45/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/utkarsh_1007/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UtkarshShu72261)
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28869753/utkarsh-shukla)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shukla_07)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__utkarsh__07)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/utkarsh__07/)
 
 ## 📈 GitHub Stats
 <p align="center">
