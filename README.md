@@ -14,16 +14,16 @@ Computer Science sophomore at IIIT Trichy combining academic pursuits with leade
 <div style="display: flex; justify-content: center; gap: 10px;">
   <span>
     <a href="https://leetcode.com/u/utkarsh_1007/">
-      <img height="316" src="https://leetcard.jacoblin.cool/utkarshshukla45?theme=dark&font=Flow%20Circular&ext=heatmap" alt="Utkarsh's Leetcode Stats"/>
+      <img height="316" src="https://leetcard.jacoblin.cool/utkarsh_1007?theme=dark&font=Flow%20Circular&ext=heatmap" alt="Utkarsh's Leetcode Stats"/>
     </a>
   </span>
   <!-- LeetCode Badges -->
   <span>
-    <a href="https://leetcode.com/u/utkarshshukla45/">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarshshukla45&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+    <a href="https://leetcode.com/u/utkarsh_1007/">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarsh_1007&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
     </a><br/>
-    <a href="https://leetcode.com/u/utkarshshukla45/">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarshshukla45&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking"/>
+    <a href="https://leetcode.com/u/utkarsh_1007/">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Futkarsh_1007&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking"/>
     </a>
   </span>
 </div>
