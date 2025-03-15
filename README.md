@@ -3,7 +3,7 @@
 <div style=" font-size: medium; color: #447ff7" align=center>  
                                  
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
- ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Utkarsh%20Shukla&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=0099ff&height=250&section=header&text=Utkarsh%20Shukla&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
       
 
   <!-- 
@@ -321,4 +321,4 @@ cin.tie(NULL);
  
 </div> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0099ff&height=150&section=footer)
