@@ -15,52 +15,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
   
-       
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
- 
-<!-- # JUST CP THESE DAYS&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">-->
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=3d5ad1=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg) -->
-   
-  
-<!-- <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Utkarsh👋  🚀 Just  CP❤️these days ❤️">
-</p> -->
 
- 
-<!-- 
-<a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a> -->
- 
-
-   
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Utkarsh Shukla)](https://git.io/typing-svg) -->
+# 💫 About Me:
+🔭 I’m currently focused on enhancing my problem-solving and development skills.<br>👯 I’m open to collaborating on exciting development projects.<br>🤝 I’m eager to learn from experienced developers and contribute to meaningful work.<br>🌱 I’m currently exploring different frameworks and expanding my tech stack.<br>💬 Ask me about web development, competitive programming, or anything tech-related!<br>⚡ Fun fact: I enjoy turning complex challenges into simple, elegant solutions.<br><br>
 
 
-<!-- # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/"width="30px"> Hi there, I'm Utkarsh Shukla. -->
-<!-- Hi.gif
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
-<!-- 
-%23808080 -->
-<!-- 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
-<!-- 
-### 😂Random Dev Meme  -->
-
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
----
-
-<!-- [![](https://visitcount.itsvg.in/api?id=18-RAJAT&icon=6&color=1)](https://visitcount.itsvg.in) -->
-
-<!-- 
-![20220309_132002](https://user-images.githubusercontent.com/78920780/157402531-dcc98a27-a913-453f-a412-9a32096282b5.jpg) -->
-
-<!-- 
-![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
- -->
 ## Coding Profiles📈
 
 <span>
